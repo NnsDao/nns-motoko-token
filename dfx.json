@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "registry": {
+      "main": "src/registry.mo"
+    }
+  },
+  "dfx": "0.7.0",
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:2333",
+      "type": "ephemeral"
+    }
+  },
+  "version": 3
+}
