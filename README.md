@@ -1,7 +1,7 @@
 ## ICP一键发币脚本
 
 
-See [demo.sh](https://github.com/NnsDao/nns-motoko-token/blob/master/demo.sh).
+See [demo.sh](https://github.com/NnsDao/nns-motoko-token/blob/main/demo.sh).
 
 ### 环境
 
@@ -26,7 +26,9 @@ See [demo.sh](https://github.com/NnsDao/nns-motoko-token/blob/master/demo.sh).
 
 7.sudo dfx ./demo.sh
 
+![dfx-network-nnsdao](https://github.com/NnsDao/nns-motoko-token/blob/main/imgs/dfx-network-nnsdao-app.png)
 
+![nnsdao-create](https://github.com/NnsDao/nns-motoko-token/blob/main/imgs/motoko-token-create.png)
 
 8.浏览器打开 http://127.0.0.1:2333 即看到运行后的dApp
 
@@ -38,4 +40,5 @@ See [demo.sh](https://github.com/NnsDao/nns-motoko-token/blob/master/demo.sh).
 ### 参考
 
 https://github.com/enzoh/motoko-token
+
 https://github.com/flyq/motoko_token
