@@ -42,3 +42,5 @@ See [demo.sh](https://github.com/NnsDao/nns-motoko-token/blob/main/demo.sh).
 https://github.com/enzoh/motoko-token
 
 https://github.com/flyq/motoko_token
+
+https://github.com/rocklabs-io/dtoken/
